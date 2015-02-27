@@ -8,8 +8,8 @@ tags: [pushkar, kolhe, teaching]
 
 ### At Georgia Tech
 
-* CS 3600. Introduction to Artificial Intelligence in Summer 2014.
-* CS 4641. Machine Learning in Summer 2013.
+* [CS 3600. Introduction to Artificial Intelligence in Summer 2014](http://www.robotvisions.org/3600).
+* [CS 4641. Machine Learning in Summer 2013](http://www.robotvisions.org/4641).
 
 ### At Udacity
 
