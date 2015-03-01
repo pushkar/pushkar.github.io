@@ -25,3 +25,8 @@ tags: [pushkar, kolhe, climbing]
     <img src="http://www.cc.gatech.edu/~pushkar/images/williamson.jpg">
     <figcaption>200 ft shy of the Mt. Williamson summit. This is the Williamson Bowl.</figcaption>
 </figure>
+
+<figure>
+    <img src="https://s3.amazonaws.com/share-all/rainier.jpg">
+    <figcaption>Crevasses near Mt. Rainier base camp.</figcaption>
+</figure>
