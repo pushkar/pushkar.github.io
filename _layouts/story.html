@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href="http://static.storyform.co/v0.5/css/read.css" rel="stylesheet" />
+<script>
+var _template = {
+    version: 'v0.5',
+    group: 'Puget',
+    appKey: 'C09ECC7CFFCF49FCB090A529767B3B30'
+};
+!function(a){function b(a,b){var c=new XMLHttpRequest;c.onreadystatechange=function(){4===c.readyState&&(c.status>=200&&c.status<300?b(null,c):b(c),c.onreadystatechange=function(){})},c.open("GET",a.uri,!0),c.send()}document.documentElement.className+=" js";var c=void 0===_template.host?"//storyform.co":_template.host,d=_template.version||"v0.5",e=_template.generator?"&generator="+_template.generator:"",f=c+"/"+d+"/render/"+a._template.group+"?appKey="+encodeURIComponent(_template.appKey)+"&uri="+encodeURIComponent(document.location.href)+"&lastModified="+encodeURIComponent(document.lastModified)+"&title="+document.title.substr(0,200)+"&width="+window.innerWidth+"&height="+window.innerHeight+"&deviceWidth="+window.screen.width+"&deviceHeight="+window.screen.height+e;a.App=a.App||{},a.App.Data=a.App.Data||{},a.App.Data.render={callback:function(){},data:null,uri:f},b({uri:f},function(b,c){if(c){var d=a.App.Data.render.data=JSON.parse(c.responseText);a.App.Data.render.callback(null,d),a.App.Data.render.callback=function(){}}else a.App.Data.render.error=b,a.App.Data.render.callback(b),a.App.Data.render.callback=function(){}})}(this);
+</script>
+<script src="http://static.storyform.co/v0.5/js/read.js"></script>
+
+</head>
+<body>
+
+<article data-content data-layout-type="freeflow">
+    <h1>Pushkar Kolhe</h1>
+    <div data-publisher="" ></div>
+    <time data-published="" datetime="Aug 4, 2014">Aug 4, 2014</time>
+    <img width="2048" height="1536" src="http://ec2-52-6-57-255.compute-1.amazonaws.com/wp-content/uploads/2015/04/rainier.jpg" class="attachment-full wp-post-image" alt="rainier" data-sources="http://ec2-52-6-57-255.compute-1.amazonaws.com/wp-content/uploads/2015/04/rainier.jpg 1x 2048w 1536h" />
+</article>
+
+<!-- AN OPTIONAL NAVIGATION BAR -->
+<header class="navbar navbar-left horizontal-links" role="navigation" data-win-control="UI.NavBar">
+    <div class="navbar-toggle">
+        <div class="navbar-lines-button">
+          <span class="navbar-lines"></span>
+        </div>
+    </div>
+    <div class="navbar-content">
+        <a class="navbar-logo" href="/" rel="home">
+            <h2 class="navbar-site-title">Pushkar Kolhe</h2>
+        </a>
+        <div class="navbar-title">
+            <h6><a href="#">Mt. Rainier</a></h6>
+        </div>
+        <div class="navbar-controls">
+            <a class="navbar-icon" data-win-control="UI.FacebookShare" href="#"></a>
+            <a class="navbar-icon" data-win-control="UI.TwitterShare" href="#"></a>
+            <a class="navbar-icon" data-win-control="UI.FullScreenButton" href="#"></a>
+        </div>
+        <nav class="navbar-nav navbar-links">
+            <ul id="menu-all-pages" class="menu">
+                <li><a href="teaching/">Teaching</a></li>
+                <li><a href="blog/">Blog</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<div class="navbar-overlay"></div>
+
+<div class="primary-content">
+    <div class="magazine" data-win-control="Controls.FlipView">
+        <div data-win-control="UI.ProgressBar"></div>
+        <div data-win-control="UI.PageNumbers"></div>
+    </div>
+</div>
+</body>
+</html>
