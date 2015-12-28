@@ -7,7 +7,6 @@ tags: [pushkar, kolhe, comedy]
 
 ### Upcoming Shows
 
-* [Star Wars: The Farce Awakens with Highwire Comedy Co.](https://www.facebook.com/events/905906502827729/)
 * [Spoons playing Spoon River: Improv with TYIA](http://thankyouinadvanceimprov.com/shows/)
 
 ### Sketch
@@ -19,6 +18,8 @@ tags: [pushkar, kolhe, comedy]
 * Do you want some stuff legally?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fh_HKDdoM_U" frameborder="0" allowfullscreen></iframe>
+
+* [Star Wars: The Farce Awakens with Highwire Comedy Co.](https://www.facebook.com/events/905906502827729/)
 
 ### Improv
 
