@@ -7,7 +7,7 @@ tags: [pushkar, kolhe, comedy]
 
 ### Upcoming Shows
 
-* [Spoons playing Spoon River: Improv with TYIA](http://thankyouinadvanceimprov.com/shows/)
+* [Spoons playing Spoon River: Improv with TYIA](https://www.facebook.com/events/1085570041487684/)
 
 ### Sketch
 
