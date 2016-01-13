@@ -7,7 +7,7 @@ tags: [pushkar, kolhe, comedy]
 
 ### Upcoming Shows
 
-* [Spoons playing Spoon River: Improv with TYIA](https://www.facebook.com/events/1085570041487684/)
+* Next shows in Feb.
 
 ### Sketch
 
@@ -24,6 +24,7 @@ tags: [pushkar, kolhe, comedy]
 ### Improv
 
 * [Thank you in Advance Improv](http://thankyouinadvanceimprov.com/).
+* [Spoons playing Spoon River: Improv with TYIA](https://www.facebook.com/events/1085570041487684/).
 
 ### Standup
 
