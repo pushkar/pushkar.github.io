@@ -15,6 +15,9 @@ tags: [pushkar, kolhe, comedy]
 </div>
 </section><!-- /#table-of-contents -->
 
+### Standup Reel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u1kL3nS6fq0" frameborder="0" allowfullscreen></iframe>
 
 ### Sketch
 
