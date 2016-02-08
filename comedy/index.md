@@ -5,26 +5,29 @@ excerpt: "Pushkar Kolhe: Comedy"
 tags: [pushkar, kolhe, comedy]
 ---
 
-### Upcoming Shows
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-* Next shows in Feb.
 
 ### Sketch
 
-* A Simple and Clear Design
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HensP0odqJU" frameborder="0" allowfullscreen></iframe>
-
-* Do you want some stuff legally?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fh_HKDdoM_U" frameborder="0" allowfullscreen></iframe>
-
+* [A Simple and Clear Design](https://www.youtube.com/embed/HensP0odqJU)
+* [Do you want some stuff legally?](https://www.youtube.com/embed/fh_HKDdoM_U)
 * [Star Wars: The Farce Awakens with Highwire Comedy Co.](https://www.facebook.com/events/905906502827729/)
 
 ### Improv
 
-* [Thank you in Advance Improv](http://thankyouinadvanceimprov.com/).
-* [Spoons playing Spoon River: Improv with TYIA](https://www.facebook.com/events/1085570041487684/).
+* [Thank you in Advance + The Adult Table](https://www.facebook.com/events/548866001939887/).
+* [TYIA presents... a Spoon River](https://www.facebook.com/events/1085570041487684/).
+
+See other shows from [Thank you In Advance](http://thankyouinadvanceimprov.com/).
 
 ### Standup
 
