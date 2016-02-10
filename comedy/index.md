@@ -21,6 +21,7 @@ tags: [pushkar, kolhe, comedy]
 
 ### Sketch
 
+* [Hitler meets George Lucas](https://www.youtube.com/embed/NfSvnDA4L-U)
 * [A Simple and Clear Design](https://www.youtube.com/embed/HensP0odqJU)
 * [Do you want some stuff legally?](https://www.youtube.com/embed/fh_HKDdoM_U)
 * [Star Wars: The Farce Awakens with Highwire Comedy Co.](https://www.facebook.com/events/905906502827729/)

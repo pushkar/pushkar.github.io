@@ -18,7 +18,7 @@ tags: [pushkar, kolhe, climbing]
 * Mt. Shashta (Aug 2014) - Summit.
 * Mt. Rainier (Aug 2014) - Camp Muir base camp.
 * Mt. Adams (Aug 2014) - Summit.
-* Volcán Barú (Nov 2015) - Summit. Not mountaineering, technically.
+* Volcán Barú (Nov 2014) - Summit. Not mountaineering, technically.
 
 
 ### 2013
