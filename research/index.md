@@ -23,7 +23,7 @@ My publications are on [Google Scholar](https://scholar.google.com/citations?use
 I am working on bring best practices from flipped classrooms into Massive Open Online Courses (MOOCs). This work includes creating a peer grading system for grading short answer questions. I am also working on a design to create personalized exams for online students. These exams help students achieve their personal goals.
 
 * [Personalized Exams and Learning in Massive Open Online Courses](http://crowdml.cc/icml2015/papers/CrowdML-Paper20.pdf)
-* Peer Reviewing Short Answers using Comparative Judgement
+* [Peer Reviewing Short Answers using Comparative Judgement](http://popkdr.cc.gt.atl.ga.us/papers/peer_grading.pdf)
 
 <br />
 I am working on an online class that has over 500 students. I always want to discuss things that can improve teaching. So if you want to talk about it, write me an email.
