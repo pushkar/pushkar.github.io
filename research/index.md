@@ -22,8 +22,8 @@ My publications are on [Google Scholar](https://scholar.google.com/citations?use
 
 I am working on bring best practices from flipped classrooms into Massive Open Online Courses (MOOCs). This work includes creating a peer grading system for grading short answer questions. I am also working on a design to create personalized exams for online students. These exams help students achieve their personal goals.
 
-* [Personalized Exams and Learning in Massive Open Online Courses](http://crowdml.cc/icml2015/papers/CrowdML-Paper20.pdf)
-* [Peer Reviewing Short Answers using Comparative Judgement](http://www.pushkar.name/files/peer_grading.pdf)
+* [Personalized Exams and Learning in Massive Open Online Courses](http://crowdml.cc/icml2015/papers/CrowdML-Paper20.pdf) (ICML 2015)
+* [Peer Reviewing Short Answers using Comparative Judgement](http://www.pushkar.name/files/peer_grading.pdf) (LnS 2016)
 
 <br />
 I am working on an online class that has over 500 students. I always want to discuss things that can improve teaching. So if you want to talk about it, write me an email.
@@ -32,7 +32,7 @@ I am working on an online class that has over 500 students. I always want to dis
 
 This project investigates three effective manipulation strategies for wheeled, dynamically balancing robots with articulated links. By comparing these strategies through analysis, simulation and robot experiments, we show that contact placement and body posture have a significant impact on the robot's ability to accelerate and displace environment objects. Given object geometry and friction parameters we determine the most effective methods for utilizing wheel torque to perform non-prehensile manipulation.
 
-* [Dynamic Pushing Strategies for Dynamically Stable Mobile Manipulators](http://www.golems.org/papers/KolheICRA10-dynamic-pushing.pdf)
+* [Dynamic Pushing Strategies for Dynamically Stable Mobile Manipulators](http://www.golems.org/papers/KolheICRA10-dynamic-pushing.pdf) (ICRA 2010)
 * [Equations of Motion for Dynamically Stable Mobile Manipulators](http://www.golems.org/papers/Dantam10a-dynamic-equations.pdf)
 
 Also see the robot [Golem Krang](http://www.golems.org/projects/krang.html).
@@ -49,7 +49,7 @@ We worked on framing the mixed palletizing problem as a knapsack problem and fin
 <br />
 We also worked on crating a design methodology for mapping the configuration space of multirobot systems in a warehouse.
 
-* [Finding Graph Topologies for Feasible Multirobot Motion Planning](https://www.researchgate.net/profile/Pushkar_Kolhe/publication/235435345_Finding_Graph_Topologies_for_Feasible_Multirobot_Motion_Planning/links/0c960519099e130b81000000.pdf)
+* [Finding Graph Topologies for Feasible Multirobot Motion Planning](https://www.researchgate.net/profile/Pushkar_Kolhe/publication/235435345_Finding_Graph_Topologies_for_Feasible_Multirobot_Motion_Planning/links/0c960519099e130b81000000.pdf) (IROS 2012)
 
 ### Robot Chess
 
